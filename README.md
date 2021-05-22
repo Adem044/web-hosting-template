@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Web Hosting Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has built using React and styled-components.
 
 ## Available Scripts
 
