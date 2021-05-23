@@ -1,6 +1,6 @@
 # Web Hosting Template
 
-This project has built using React and styled-components.
+This project was built using React and styled-components.
 
 ## Available Scripts
 
